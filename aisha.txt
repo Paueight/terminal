@@ -1,2 +1,0 @@
-Mi perra es una pitbull muy dormilona, fue un regalo de cumpĺeaños y me sale muy cara.
-Ejemplo de como mover un archivo de una carpeta a otra usando `mv`
