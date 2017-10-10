@@ -8,4 +8,4 @@ Suspendisse sit amet bibendum nisl, vel dictum massa. Aliquam a mollis leo, eu o
 
 Ut ac nulla nec felis mattis tincidunt. Aenean fermentum porta felis in laoreet. Ut vel venenatis mauris. Vivamus bibendum sapien arcu, sit amet posuere nibh porta sed. Sed sit amet tempus neque. Donec euismod elit ac sapien pulvinar eleifend. Vestibulum elementum posuere tellus. Morbi congue ex nec nulla sodales, ut consequat nisl tempus. Etiam sit amet congue sapien. Nulla ex libero, varius eget nisl non, malesuada rhoncus quam. Aliquam erat volutpat. Nulla orci felis, malesuada in nunc vel, venenatis pulvinar massa. Nunc vel euismod ligula, vitae tempor sapien. Proin id lacus euismod justo semper venenatis nec at nibh. Aenean interdum turpis magna. Maecenas posuere est eu blandit porttitor.
 
-157, _ 15, _ 29, _ characters of Lorem Ipsum usign the `wc` command.
+11 lines, 553 words, 3657 characters of Lorem Ipsum usign the `wc` command.
