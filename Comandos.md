@@ -20,7 +20,7 @@
 ### Comandos aprendidos Octubre 9
 * `ln -s`:    :link:
 * `rm`: Sirve para borrar archivos. :scissors:
-* `rm -r /`: Sirve para borrar todo de raiz. :gun:
+* `rm -r /`: Sirve para borrar el directorio raiz. (Tamales Antonio!! Brujaaa Madreeee!!) :gun:
 * `rm /*`: Sirve para borrar lo que hay dentro del directorio. :open_file_folder: :gun:
 * `rm -rf`: Sirve para borrar directorios y su contenido. :open_file_folder: :x:
 * `man`: Sirve para revisar la documentación de los comandos. :interrobang:
@@ -33,3 +33,19 @@
 * `wc -l`: Obtenemos el número de lineas de un texto. :clipboard:
 * `wc -c`: Obtenemos el número de caracteres de un texto. :page_facing_up:
 * `wc -w`: Obtenemos el número de palabras de un texto. :hash:
+
+### Comandos aprendidos Octubre 10
+* `git commit --amend -m ""`: Funciona para corregir el commit.
+* `vim`: Obtenemos un editor de texto en la terminal.
+* `wich`: Nos indica en donde se esta ejecutando el comando.
+* `top`: Nos indica los procesos que se estan ejecutando.
+* `Kill -9`: Mata el proceso seleccionado que se esta ejecutando.
+* `man ps`: Manual de ps. :smile:
+* `echo $`: Sirve para la impresion de un texto en pantalla.
+
+### Comandos desconocidos :blush:
+* `oclock`: Sincroniza los relojes de hardware y software. :clock4:
+* `apt`: Es una herramienta de empaquetado de aplicaciones que nos ayuda a simplificar la instalación y desinstalación de programas. :cd:
+* `pix`: Sirve para visualizar archivos de imagen. :fireworks:
+* `pr o SoX`: Lee y escribe archivos de audio. :headphones:
+* `rev`: Sirve para copiar un archivo en especifico e invierte el orden de los caracteres de cada linea. :page_facing_up: 
