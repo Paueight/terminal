@@ -20,15 +20,15 @@
 ### Comandos aprendidos Octubre 9
 * `ln -s`:    :link:
 * `rm`: Sirve para borrar archivos. :scissors:
-* `rm -r`: Sirve para borrar todo de raiz. :gun:
+* `rm -r /`: Sirve para borrar todo de raiz. :gun:
 * `rm /*`: Sirve para borrar lo que hay dentro del directorio. :open_file_folder: :gun:
-* `rm -rf`: Sirve para borrar directorios. :open_file_folder: :x:
-* `man`: Sirve para saber el significado de los comandos. :interrobang:
+* `rm -rf`: Sirve para borrar directorios y su contenido. :open_file_folder: :x:
+* `man`: Sirve para revisar la documentación de los comandos. :interrobang:
 * `bc`: Funciona como calculadora. :five: :heavy_plus_sign: :eight:
 * `more`: Funciona para imprimir el contenido de un texto. :fax:
 * `tail`: Imprime las ultimas 10 lineas de un texto. :pencil: :end:
 * `head`: Imprime las primeras 10 lineas de un texto. :page_facing_up: :soon:
-* `cat`: Escupe el documento. :page_with_curl:
+* `cat`: Imprime de manera instantatnea el contenido de un texto. :page_with_curl:
 * `wc`: Obtenemos el número de lineas, palabras y caracteres de un texto. :chart_with_upwards_trend:
 * `wc -l`: Obtenemos el número de lineas de un texto. :clipboard:
 * `wc -c`: Obtenemos el número de caracteres de un texto. :page_facing_up:
