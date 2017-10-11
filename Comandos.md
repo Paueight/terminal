@@ -49,3 +49,19 @@
 * `pix`: Sirve para visualizar archivos de imagen. :fireworks:
 * `SoX`: Lee y escribe archivos de audio. :headphones:
 * `rev`: Imprime en orden inverso el contenido de un archivo. :page_facing_up:
+
+### Comandos aprendidos Octubre 11 :bulb:
+* `fortune`: Funciona como galleta de la suerte. :cookie:
+* `yes`: Muestra una cadena indefinidamente hasta que el proceso sea eliminado. :bomb:
+* `figlet`: Funciona para transformar palabras con fuentes ascii que se encuentran en /usr/share/figlet. :a:
+* `ls`: En lugar de escribir sl si escribimos ls obtendremos una locomotora. :steam_locomotive:
+* `cowsay`: Obtenemos una vaquita ascii con texto. :cow:
+* `toilet --gay`: Obtenemos textos ascii con color. :art:
+* `aafire`: Terminal en llamas. :fire: :smile:
+* `cmatrix`: Obtenemos una pantalla matrix. ![image](/arte/matrix.png)
+* ![image](/arte/frozenbubble.png)
+* ![image](/arte/cow.png)
+* ![image](/arte/junior.png)
+* ![image](/arte/locomotora.png)
+* ![image](/arte/gatito.png)
+* ![image](/arte/gato.png)
