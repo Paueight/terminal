@@ -37,15 +37,15 @@
 ### Comandos aprendidos Octubre 10
 * `git commit --amend -m ""`: Funciona para corregir el commit.
 * `vim`: Obtenemos un editor de texto en la terminal.
-* `wich`: Nos indica en donde se esta ejecutando el comando.
+* `which`: Nos indica en donde se esta ejecutando el comando.
 * `top`: Nos indica los procesos que se estan ejecutando.
 * `Kill -9`: Mata el proceso seleccionado que se esta ejecutando.
 * `man ps`: Manual de ps. :smile:
-* `echo $`: Sirve para la impresion de un texto en pantalla.
+* `echo`: Sirve para la impresion de un texto en pantalla.
 
 ### Comandos desconocidos :blush:
-* `oclock`: Sincroniza los relojes de hardware y software. :clock4:
+* `oclock`: Muestra un reloj análogo con la hora actual. :clock4:
 * `apt`: Es una herramienta de empaquetado de aplicaciones que nos ayuda a simplificar la instalación y desinstalación de programas. :cd:
 * `pix`: Sirve para visualizar archivos de imagen. :fireworks:
-* `pr o SoX`: Lee y escribe archivos de audio. :headphones:
-* `rev`: Sirve para copiar un archivo en especifico e invierte el orden de los caracteres de cada linea. :page_facing_up: 
+* `SoX`: Lee y escribe archivos de audio. :headphones:
+* `rev`: Imprime en orden inverso el contenido de un archivo. :page_facing_up:
