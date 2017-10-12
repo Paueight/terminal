@@ -42,6 +42,7 @@
 * `Kill -9`: Mata el proceso seleccionado que se esta ejecutando.
 * `man ps`: Manual de ps. :smile:
 * `echo`: Sirve para la impresion de un texto en pantalla.
+* `""`: Sirve para indicar espacios.
 
 ### Comandos desconocidos :blush:
 * `oclock`: Muestra un reloj análogo con la hora actual. :clock4:
@@ -59,9 +60,25 @@
 * `toilet --gay`: Obtenemos textos ascii con color. :art:
 * `aafire`: Terminal en llamas. :fire: :smile:
 * `cmatrix`: Obtenemos una pantalla matrix. ![image](/arte/matrix.png)
-* ![image](/arte/frozenbubble.png)
-* ![image](/arte/cow.png)
 * ![image](/arte/junior.png)
 * ![image](/arte/locomotora.png)
 * ![image](/arte/gatito.png)
-* ![image](/arte/gato.png)
+
+### Comandos de aplicaciones instaladas
+* `supertuxkart`: Supertux. :penguin:
+* `stellarium`: Stellarium. :sunny: :star: :full_moon_with_face:
+* `inkscape`: Inkscape. :art: :pencil:
+
+### Comandos aprendidos `>`, `|` y `<` Octubre 12
+* `>`: Sirve para guardar la salida de un comando en un archivo. :arrow_right:
+* `|`: Sirve para separar comandos que realizan acciones que se conectan. :hocho: :arrow_right: :tomato: :poultry_leg: :arrow_right: :egg: :arrow_right: :stew:
+* `<`: Sirve para leer un archivo. :page_facing_up:
+
+### Comandos del ejercicio algebraico
+* `bc input-algebra.bc > output-algebra.txt`
+* `cat input-algebra.bc | bc > output-algebra.txt`
+* `bc < input-algebra.bc > output-algebra.txt`
+
+### Comandos del ejercicio "Ola ke ase"
+* `touch ola.txt` --> ola ke ase
+* `cowsay < ola.txt`
