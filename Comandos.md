@@ -30,7 +30,7 @@
 * `head`: Imprime las primeras 10 lineas de un texto. :page_facing_up: :soon:
 * `cat`: Imprime de manera instantatnea el contenido de un texto. :page_with_curl:
 * `wc`: Obtenemos el número de lineas, palabras y caracteres de un texto. :chart_with_upwards_trend:
-* `wc -l`: Obtenemos el número de lineas de un texto. :clipboard:
+* `wc -l`: Obtenemos el número de lineas de un texto. :clipboard:t-get
 * `wc -c`: Obtenemos el número de caracteres de un texto. :page_facing_up:
 * `wc -w`: Obtenemos el número de palabras de un texto. :hash:
 
@@ -55,7 +55,7 @@
 * `fortune`: Funciona como galleta de la suerte. :cookie:
 * `yes`: Muestra una cadena indefinidamente hasta que el proceso sea eliminado. :bomb:
 * `figlet`: Funciona para transformar palabras con fuentes ascii que se encuentran en /usr/share/figlet. :a:
-* `ls`: En lugar de escribir sl si escribimos ls obtendremos una locomotora. :steam_locomotive:
+* `sl`: En lugar de escribir ls si escribimos sl obtendremos una locomotora. :steam_locomotive:
 * `cowsay`: Obtenemos una vaquita ascii con texto. :cow:
 * `toilet --gay`: Obtenemos textos ascii con color. :art:
 * `aafire`: Terminal en llamas. :fire: :smile:
@@ -73,6 +73,17 @@
 * `>`: Sirve para guardar la salida de un comando en un archivo. :arrow_right:
 * `|`: Sirve para separar comandos que realizan acciones que se conectan. :hocho: :arrow_right: :tomato: :poultry_leg: :arrow_right: :egg: :arrow_right: :stew:
 * `<`: Sirve para leer un archivo. :page_facing_up:
+
+### Comandos aprendios Octubre 13
+* `grep`: Sirve para hacer busquedas en un texto.
+* `grep $`: Sirve para buscar especificamente una palabra.
+* `.`: Sirve para borrar varios archivos o carpetas en una sola linea.
+* `cat *`: Imprime todo.
+* `-r`: Recursivamente.
+* `-e`: Expresión.
+* `-n`: El número de linea en la que se encuentra la palabra buscada.
+* `-v`:
+* `^`:
 
 ### Comandos del ejercicio algebraico
 * `bc input-algebra.bc > output-algebra.txt`
