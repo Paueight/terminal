@@ -74,17 +74,6 @@
 * `|`: Sirve para separar comandos que realizan acciones que se conectan. :hocho: :arrow_right: :tomato: :poultry_leg: :arrow_right: :egg: :arrow_right: :stew:
 * `<`: Sirve para leer un archivo. :page_facing_up:
 
-### Comandos aprendios Octubre 13
-* `grep`: Sirve para hacer busquedas en un texto.
-* `grep $`: Sirve para buscar especificamente una palabra.
-* `.`: Sirve para borrar varios archivos o carpetas en una sola linea.
-* `cat *`: Imprime todo.
-* `-r`: Recursivamente.
-* `-e`: Expresión.
-* `-n`: El número de linea en la que se encuentra la palabra buscada.
-* `-v`:
-* `^`:
-
 ### Comandos del ejercicio algebraico
 * `bc input-algebra.bc > output-algebra.txt`
 * `cat input-algebra.bc | bc > output-algebra.txt`
@@ -93,3 +82,32 @@
 ### Comandos del ejercicio "Ola ke ase"
 * `touch ola.txt` --> ola ke ase
 * `cowsay < ola.txt`
+
+### Comandos aprendios Octubre 13
+* `grep`: Sirve para hacer busquedas en un texto.
+* `grep $`: Sirve para buscar especificamente una palabra.
+* `.`: Sirve para borrar varios archivos o carpetas en una sola linea.
+* `cat *`: Imprime todo.
+* `-r`: Recursivamente.
+* `-e`: Expresión.
+* `-n`: El número de linea en la que se encuentra la palabra buscada.
+* `-v`: Identifica caracteres en especifico para no imprimirlos.
+* `^`: Busca todas las lineas que contengan un caracter en especifico al inicio.
+
+### Actividad con grep
+* `cat` 4-grep-lorem.txt `|` `grep` dolor `>` 4-output-grep.txt `|` `wc -l` `>>` 4-output-grep.txt
+* `cat` 4-grep-lorem.txt `|` `grep` Lorem `>` 4-output-grep-2.txt `|` `wc -l` `>>` 4-output-grep-2.txt
+* `cat` 4-grep-lorem.txt `|` `grep` `^`Lorem `>` 4-output-grep-2.txt `|` `wc -l` `>>` 4-output-grep-2.txt
+
+### Comandos aprendidos Octubre 16
+* `find`: Buscar.
+ * `-name`: Nombre.
+ * `-type`: Tipo de archivo.
+ * `-exec`: Indica la accion que va a realizar.
+   * `md5`: Sirve para crear identificadores.
+   * `{}`: Archivo. Indica en que archivo se va a imprimir la busqueda.
+   * `\;`: Indica que la busqueda ha terminado.
+* `split`: Separa un archivo en partes iguales.
+
+### Actividad con split
+* `split -l 100 4-grep-lorem.txt ./5-find-aa_`
