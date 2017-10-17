@@ -111,3 +111,18 @@
 
 ### Actividad con split
 * `split -l 100 4-grep-lorem.txt ./5-find-aa_`
+
+### Comandos aprendidos Octubre 17
+* `script`: Es un archivo de tareas las cuales se ejecutan automaticamente.
+* `chmod 744`Nombre del archivo: Se utiliza para obtener permisos.
+* `#!/bin/bash`: Se utiliza como interprete.
+* `./`: Ejecuta un archivo en el lugar actual.
+* `printenv`: Nos ayuda a visualizar las variables disponibles.
+
+### Actividad con script
+1. `touch` Hi.txt
+2. atom Hi.txt
+3. `./`Hi.txt
+4. `chmod 744` Hi.txt
+5. `./`Hi.txt
+6. Hola, paueight
